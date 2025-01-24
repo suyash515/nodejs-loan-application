@@ -1,0 +1,13 @@
+node_modules/*
+template/*
+views/*
+tasks/*
+assets/dependencies/*
+assets/js/jquery-3.6.1.min.js
+assets/template/*
+assets/templates/*
+app.js
+.eslintignore-frontend
+bitbucket-pipelines.yml
+
+assets
