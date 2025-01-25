@@ -12,14 +12,14 @@ module.exports.routes = {
 
   /***************************************************************************
   *                                                                          *
-  * Make the view located at `views/homepage.ejs` your home page.            *
+  * Make the view located at `views/home.pug` your home page.                *
   *                                                                          *
   * (Alternatively, remove this and add an `index.html` file in your         *
   * `assets` directory)                                                      *
   *                                                                          *
   ***************************************************************************/
 
-  '/': { view: 'pages/homepage' },
+  '/': { controller: 'home', view: 'home.pug' },
 
 
   /***************************************************************************
