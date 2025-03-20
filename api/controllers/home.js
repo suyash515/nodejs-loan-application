@@ -20,7 +20,8 @@ module.exports = {
                 record_count: 10,
                 info_count: 10,
                 rest_count: 10,
-                issue_count: 10
+                issue_count: 10,
+                rest_issue_count: 10
             }
         };
 
