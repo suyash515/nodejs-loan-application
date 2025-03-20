@@ -17,7 +17,8 @@ module.exports = {
             additional_message: "This is the official application that has been migrated",
             additional_info: {
                 message: "This is the official application that has been migrated",
-                record_count: 10
+                record_count: 10,
+                info_count: 10
             }
         };
 
