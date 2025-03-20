@@ -19,7 +19,8 @@ module.exports = {
                 message: "This is the official application that has been migrated",
                 record_count: 10,
                 info_count: 10,
-                rest_count: 10
+                rest_count: 10,
+                issue_count: 10
             }
         };
 
